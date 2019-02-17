@@ -1,0 +1,63 @@
+git init
+git add rea
+git commit -m "first commit"
+git remote add origin https://github.com/yogymax/consumeapi.git
+git push -u origin master
+
+
+A f1			
+  f2	
+				Repo
+B f1
+
+
+
+Producer -- Backend Development
+	django
+	rest_framework
+	swagger
+	pymysql
+	wsgi - server 
+			-- gunicorn - nginx (engine-x)(Linux) 
+			--wsgi -- Apache_mod_wsgi
+	
+	
+	logger
+	postman
+	git -- code versioning...
+		download git for windows..
+		install
+		set path till cmd folder -- include cmd
+		open fresh command prompt-- 
+		type -- git --version
+		
+	jenkins
+	serializers
+	tests..unittest/pytest -- whitebox -- unit/module test --
+			
+	NOte -- django business logic specific changes..
+	
+	
+
+
+
+
+
+
+
+Consumer
+	django/flask/
+	requests
+	ui -- angular/react/html/css/bootstrap anything..
+	forms
+	models
+	serializers
+	db - to save consumer side data
+	postman-- 
+	logger
+	git
+	servers -- wsgi..nginx..apache_mod_wsgi..
+	deployement
+	jenkins
+	tests..unittest/pytest
+	
